@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("tEXTtOeXCEL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+46f22becd8e3a48e458964f75b9a363d50ebba41")]
 [assembly: System.Reflection.AssemblyProductAttribute("tEXTtOeXCEL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("tEXTtOeXCEL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
